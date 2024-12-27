@@ -40,8 +40,8 @@ Haloo kawan-kawan Divisi Computer Network, selamat datang di repository <strong>
 <center>
 
 | <img src="https://github.com/muhananaufal.png" width="100"> | <img src="https://github.com/Syamsoelll.png" width="100"> |  <img src="https://github.com/nicolast74.png" width="100">   |
-| :---------------------------------------------------------: | :-------------------------------------------------------: | :----------------------------------------------------------: | ---------------------------------------------- |
-| [Muhana Naufal Al-Atsari](https://github.com/muhananaufal)  | [Muhammad Syamsul Hidayat](https://github.com/Syamsoelll) | [Nicolas Tegar Nurhadi Putra](https://github.com/nicolast74) | [Bob Williams](https://github.com/bobwilliams) |
+| :---------------------------------------------------------: | :-------------------------------------------------------: | :----------------------------------------------------------: | 
+| [Muhana Naufal Al-Atsari](https://github.com/muhananaufal)  | [Muhammad Syamsul Hidayat](https://github.com/Syamsoelll) | [Nicolas Tegar Nurhadi Putra](https://github.com/nicolast74) | 
 
 </center>
 
