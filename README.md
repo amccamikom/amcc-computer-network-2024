@@ -1,9 +1,10 @@
-
+<div align="center">
 <p>
 <img src="https://media1.tenor.com/m/mZMc3JEV4UkAAAAd/firefly-hsr.gif">
 </p>
 <h1>Repository Computer Network 2024/2025 🛜</h1>
 Haloo kawan-kawan Divisi Computer Network, selamat datang di repository <strong>AMCC Computer Network 2024/2025</strong>! Repository ini adalah tempat untuk menemukan materi dan modul pembelajaran jaringan komputer yang difokuskan pada <strong>Cisco Packet Tracer</strong>.
+</div>
 
 <br>
 
