@@ -13,7 +13,7 @@ Haloo kawan-kawan Divisi Computer Network, selamat datang di repository <strong>
 | Pertemuan | Materi                                                  | Link ke Medium                                                                                                     |
 | --------- | ------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
 | 1         | Pengenalan Jaringan Komputer dan Cisco Packet Tracer    | [Baca di Medium](https://medium.com/amcc-amikom/pengenalan-jaringan-komputer-dan-cisco-packet-tracer-7df4ad954f68) |
-| 2         | Pengaturan Dasar Perangkat Jaringan dan Pengalamatan IP | [Baca di Medium](https://medium.com/#)                                                                             |
+| 2         | Pengaturan Dasar Perangkat Jaringan dan Pengalamatan IP | [Baca di Medium](https://medium.com/amcc-amikom/pengaturan-dasar-perangkat-jaringan-dan-pengalamatan-ip-4d968ca95835)                                                                             |
 | 3         | Subnetting                                              | [Baca di Medium](https://medium.com/#)                                                                             |
 | 4         | VLSM (Variable Length Subnet Masking)                   | [Baca di Medium](https://medium.com/#)                                                                             |
 | 5         | VLAN (Virtual Local Area Network)                       | [Baca di Medium](https://medium.com/#)                                                                             |
